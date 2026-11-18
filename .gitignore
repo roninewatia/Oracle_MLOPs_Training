@@ -5,3 +5,5 @@ __pycache__/
 mlflow.db
 mlartifacts/
 WA_Fn-UseC_-Telco-Customer-Churn.csv
+mlruns/
+.pytest_cache
