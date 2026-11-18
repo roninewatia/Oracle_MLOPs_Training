@@ -4,3 +4,4 @@ uvicorn
 mlflow
 pandas
 scikit-learn
+pytest
